@@ -1,0 +1,16 @@
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\bin\Debug\net6.0\ForumApp.ViewModels.deps.json
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\bin\Debug\net6.0\ForumApp.ViewModels.dll
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\bin\Debug\net6.0\ForumApp.ViewModels.pdb
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.AssemblyInfoInputs.cache
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.AssemblyInfo.cs
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.csproj.CoreCompileInputs.cache
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.sourcelink.json
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.dll
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\refint\ForumApp.ViewModels.dll
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.pdb
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ref\ForumApp.ViewModels.dll
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\bin\Debug\net6.0\ForumApp.Common.dll
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\bin\Debug\net6.0\ForumApp.Common.pdb
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.csproj.AssemblyReference.cache
+D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.ViewModels\obj\Debug\net6.0\ForumApp.ViewModels.csproj.CopyComplete

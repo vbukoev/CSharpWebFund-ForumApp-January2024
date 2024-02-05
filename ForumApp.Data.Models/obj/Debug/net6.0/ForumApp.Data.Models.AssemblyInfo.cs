@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForumApp.Data.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ee5a7dffda7e9cd2972cf8fa6f46e9d37381e7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bddaf1e8a73f7b535395c4f5a6bd4743b3267f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForumApp.Data.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForumApp.Data.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

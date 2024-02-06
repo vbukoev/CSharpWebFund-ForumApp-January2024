@@ -10,3 +10,15 @@ D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebF
 D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\refint\ForumApp.Common.dll
 D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.pdb
 D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ref\ForumApp.Common.dll
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\bin\Debug\net6.0\ForumApp.Common.deps.json
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\bin\Debug\net6.0\ForumApp.Common.dll
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\bin\Debug\net6.0\ForumApp.Common.pdb
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.AssemblyInfoInputs.cache
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.AssemblyInfo.cs
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.csproj.CoreCompileInputs.cache
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.sourcelink.json
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.dll
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\refint\ForumApp.Common.dll
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ForumApp.Common.pdb
+D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp.Common\obj\Debug\net6.0\ref\ForumApp.Common.dll

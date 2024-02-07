@@ -2935,11 +2935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software University\\repos\\Software-University-Education\\CSharp-Web\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\ForumApp.Data.csproj",
+      "projectUniqueName": "D:\\Software University\\repos\\CSharpWebFund-ForumApp-January2024\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\ForumApp.Data.csproj",
       "projectName": "ForumApp.Data",
-      "projectPath": "D:\\Software University\\repos\\Software-University-Education\\CSharp-Web\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\ForumApp.Data.csproj",
+      "projectPath": "D:\\Software University\\repos\\CSharpWebFund-ForumApp-January2024\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\ForumApp.Data.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Software University\\repos\\Software-University-Education\\CSharp-Web\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\obj\\",
+      "outputPath": "D:\\Software University\\repos\\CSharpWebFund-ForumApp-January2024\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2960,8 +2960,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Software University\\repos\\Software-University-Education\\CSharp-Web\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data.Models\\ForumApp.Data.Models.csproj": {
-              "projectPath": "D:\\Software University\\repos\\Software-University-Education\\CSharp-Web\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data.Models\\ForumApp.Data.Models.csproj"
+            "D:\\Software University\\repos\\CSharpWebFund-ForumApp-January2024\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data.Models\\ForumApp.Data.Models.csproj": {
+              "projectPath": "D:\\Software University\\repos\\CSharpWebFund-ForumApp-January2024\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data.Models\\ForumApp.Data.Models.csproj"
             }
           }
         }

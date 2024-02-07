@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Ijyo7XHUwMc9Od1V+qZ1pc64G4UOz6xR8CtyAZCUEnPWg610Y23JRB6GdgaQzfo9K8irFRVqHBsj30gZU9QLw==",
+  "dgSpecHash": "riF0+yT+dAHu3t1gSc9FxZwJL9m82b8YWQNo6zqrBl3LC0kM7GvWONjyXYfyKDAh8/g+e8ss8CQfeeKKzRGecg==",
   "success": true,
-  "projectFilePath": "D:\\Software University\\repos\\Software-University-Education\\CSharp-Web\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\ForumApp.Data.csproj",
+  "projectFilePath": "D:\\Software University\\repos\\CSharpWebFund-ForumApp-January2024\\CSharpWebFund-ForumApp-January2024\\ForumApp.Data\\ForumApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

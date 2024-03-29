@@ -9,51 +9,51 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Forum.App
 build_property.RootNamespace = Forum.App
-build_property.ProjectDir = D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp\
+build_property.ProjectDir = D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Software University\repos\Software-University-Education\CSharp-Web\CSharpWebFund-ForumApp-January2024\ForumApp
+build_property.MSBuildProjectDirectory = D:\Software University\repos\CSharpWebFund-ForumApp-January2024\CSharpWebFund-ForumApp-January2024\ForumApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Home/Index.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Home/Privacy.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Post/Add.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Post/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Post/All.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Post/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Post/Edit.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Post/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9zdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Shared/Error.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/_ViewImports.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/_ViewStart.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Software University/repos/Software-University-Education/CSharp-Web/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Shared/_Layout.cshtml]
+[D:/Software University/repos/CSharpWebFund-ForumApp-January2024/CSharpWebFund-ForumApp-January2024/ForumApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t4w3u2dipp
